@@ -1,0 +1,12 @@
+{
+  "name": "myApp",
+  "version": "1.0.0",
+  "description": "",
+  "author": "",
+  "private": true,
+  "dependencies": {
+    "karma-jasmine": "0.2.0",
+    "karma-phantomjs-launcher": "0.1.4",
+    "karma": "0.12.9"
+  }
+}
